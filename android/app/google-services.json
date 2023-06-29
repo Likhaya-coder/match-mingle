@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679375108075",
+    "project_id": "match-mingle-d9e89",
+    "storage_bucket": "match-mingle-d9e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679375108075:android:64a6ae4bb79f31e9714bae",
+        "android_client_info": {
+          "package_name": "likhayakulati.co.za.match_mingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679375108075-s7hi459jiobec4rg76jbu7pmvgp2pb4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06BWm_VEhlsvGj0lRrNW8ovcX3HgNrvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679375108075-s7hi459jiobec4rg76jbu7pmvgp2pb4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
